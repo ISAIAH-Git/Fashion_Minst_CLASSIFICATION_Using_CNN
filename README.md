@@ -4,4 +4,4 @@
 
 # DATASET:
 
-![](Minst_fashion.png)
+![](Mnist_fashion.png)
